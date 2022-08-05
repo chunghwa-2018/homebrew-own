@@ -35,7 +35,6 @@ download java8 / 9 / 10 / 11 .dmg
 
 ```
 $ vim java8.rb
-
 ```
 
 - version
