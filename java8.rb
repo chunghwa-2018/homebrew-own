@@ -2,7 +2,7 @@ cask 'java8' do
   version '8u341,b08:424b9da4b48848379167015dcc250d8d'
   sha256 '95c5f251c5c9e717d1b9157e4f616e18b2657f57e4af258cc6d04c14c4bbe4e6'
 
-  url "file:///Users/zhaohongliang/Downloads/jdk-8u341-macosx-x64.dmg",
+  url "file:///opt/jdk/jdk-8u341-macosx-x64.dmg",
       cookies: {
                  'oraclelicense' => 'accept-securebackup-cookie',
                }

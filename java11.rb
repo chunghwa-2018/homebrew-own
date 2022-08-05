@@ -2,7 +2,7 @@ cask 'java11' do
   version '11.0.16,b08:b8c39bd7f0064c2aa24e6002b391bd0f'
   sha256 'f89ea4e18bf2a7937c4412b7e5c39ffb6957c39ce6b8a24dabe138c737016ec0'
 
-  url "file:///Users/zhaohongliang/Downloads/jdk-11.0.16_macos-x64_bin.dmg",
+  url "file:///opt/jdk/jdk-11.0.16_macos-x64_bin.dmg",
       cookies: {
                  'oraclelicense' => 'accept-securebackup-cookie',
                }
