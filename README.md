@@ -1,5 +1,5 @@
 
-## 使用 homebrew 安装 Java8 / 9 / 10 / 11
+## 使用 Homebrew 安装 Java8 / 9 / 10 / 11
 
 #### setp1:
 
