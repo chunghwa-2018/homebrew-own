@@ -5,7 +5,6 @@
 
 ```
 $ brew install --cask homebrew/cask/java8
-
 ```
 
 #### step2:
