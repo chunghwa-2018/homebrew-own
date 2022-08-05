@@ -21,6 +21,9 @@ $ git clone git@github.com:chunghwa-2018/homebrew-own.git
 $ cat java8.rb >> java8.rb
 ```
 
+[java8.rb](java8.rb)
+
+
 #### step4:
 
 ```
@@ -38,6 +41,8 @@ $ vim java8.rb
 ```
 
 - version
+
+<img src="./images/CleanShot 2022-08-05 at 23.19.55@2x.png">
 
 - sha256
 
