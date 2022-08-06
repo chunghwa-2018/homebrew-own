@@ -36,13 +36,13 @@ $ vim java8.rb
 
 - version
 
-<img src="./images/CleanShot 2022-08-06 at 11.09.57@2x.png" width="600px">
+  <img src="./images/CleanShot 2022-08-06 at 11.09.57@2x.png" width="600px">
 
-<img src="./images/CleanShot 2022-08-06 at 11.12.44@2x.png" width="200px">
+  <img src="./images/CleanShot 2022-08-06 at 11.12.44@2x.png" width="200px">
 
-<img src="./images/CleanShot 2022-08-06 at 11.03.25@2x.png" width="600px">
+  <img src="./images/CleanShot 2022-08-06 at 11.03.25@2x.png" width="600px">
 
-<img src="./images/CleanShot 2022-08-06 at 11.17.20@2x.png" width="800px">
+  <img src="./images/CleanShot 2022-08-06 at 11.17.20@2x.png" width="800px">
 
 - sha256
 
