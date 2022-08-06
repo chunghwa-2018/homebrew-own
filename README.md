@@ -70,7 +70,7 @@ $ vim java8.rb
 
   双击打开 jdk-8u43-macosx-x64.dmg
 
-  <img src="./images/CleanShot 2022-08-06 at 11.36.31@2x.png" width="200px">
+  <img src="./images/CleanShot 2022-08-06 at 11.36.31@2x.png" width="150px">
 
   <img src="./images/CleanShot 2022-08-06 at 11.33.43@2x.png" width=600px;>
 
