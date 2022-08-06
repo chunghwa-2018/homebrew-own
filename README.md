@@ -3,36 +3,36 @@
 
 #### setp1:
 
-```
-$ brew install --cask homebrew/cask/java8
-```
+  ```
+    $ brew install --cask homebrew/cask/java8
+  ```
 
 #### step2：
 
-```
-$ git clone git@github.com:chunghwa-2018/homebrew-own.git
-$ cd homebrew-own
-$ mv java8.rb /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask-versions/Casks
-```
+  ```
+    $ git clone git@github.com:chunghwa-2018/homebrew-own.git
+    $ cd homebrew-own
+    $ mv java8.rb /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask-versions/Casks
+  ```
 
 [java8.rb](java8.rb)
 
 
 #### step3:
 
-```
-$ open -a Google\ Chrome.app
+  ```
+    $ open -a Google\ Chrome.app
 
-https://www.oracle.com/cn/java/technologies/
+    https://www.oracle.com/cn/java/technologies/
 
-download java8 / 9 / 10 / 11 .dmg
-```
+    download java8 / 9 / 10 / 11 .dmg
+  ```
 
 #### step4:
 
-```
-$ vim java8.rb
-```
+  ```
+  $ vim java8.rb
+  ```
 
 - version
 
@@ -76,12 +76,12 @@ $ vim java8.rb
 
 #### step5:
 
-```
-$ brew install --cask homebrew/cask/java8
-```
+  ```
+  $ brew install --cask homebrew/cask/java8
+  ```
 
 #### step6:
 
-```
-$ java --version
-```
+  ```
+  $ java --version
+  ```
