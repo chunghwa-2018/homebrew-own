@@ -12,7 +12,7 @@
   ```
     $ git clone git@github.com:chunghwa-2018/homebrew-own.git
     $ cd homebrew-own
-    $ mv java8.rb /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask-versions/Casks
+    $ mv java8.rb /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks
   ```
 
 [java8.rb](java8.rb)
